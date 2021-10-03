@@ -12,10 +12,10 @@ namespace InterfacesEx1
 
         public void Drive(int totalFuel)
         {
-            if (totalFuel < 0)
+            if (this.totalFuel > 0)
             {
                 Random consume = new Random();
-                totalFuel = totalFuel - consume.Next(1, totalFuel + 1);
+                this.totalFuel = this.totalFuel - consume.Next(1, this.totalFuel + 1);
 
                 Console.WriteLine("The car is driving!");
             }
@@ -27,8 +27,8 @@ namespace InterfacesEx1
 
         public bool Refuel(int gasoline)
         {
-            int totalFuel = 0;
-            totalFuel = totalFuel + gasoline;
+            
+            this.totalFuel = this.totalFuel + gasoline;
 
             return true;
         }

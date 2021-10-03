@@ -11,3 +11,17 @@ C:\Users\ValterFrancisco\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcorea
 C:\Users\ValterFrancisco\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\InterfacesEx1.dll
 C:\Users\ValterFrancisco\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\InterfacesEx1.pdb
 C:\Users\ValterFrancisco\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\InterfacesEx1.genruntimeconfig.cache
+C:\Users\valte\Source\Repos\valter-francisco\Interfaces\ConsoleApp1\obj\Debug\netcoreapp3.1\InterfacesEx1.csproj.AssemblyReference.cache
+C:\Users\valte\Source\Repos\valter-francisco\Interfaces\ConsoleApp1\obj\Debug\netcoreapp3.1\InterfacesEx1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valte\Source\Repos\valter-francisco\Interfaces\ConsoleApp1\obj\Debug\netcoreapp3.1\InterfacesEx1.AssemblyInfoInputs.cache
+C:\Users\valte\Source\Repos\valter-francisco\Interfaces\ConsoleApp1\obj\Debug\netcoreapp3.1\InterfacesEx1.AssemblyInfo.cs
+C:\Users\valte\Source\Repos\valter-francisco\Interfaces\ConsoleApp1\obj\Debug\netcoreapp3.1\InterfacesEx1.csproj.CoreCompileInputs.cache
+C:\Users\valte\Source\Repos\valter-francisco\Interfaces\ConsoleApp1\obj\Debug\netcoreapp3.1\InterfacesEx1.dll
+C:\Users\valte\Source\Repos\valter-francisco\Interfaces\ConsoleApp1\obj\Debug\netcoreapp3.1\InterfacesEx1.pdb
+C:\Users\valte\Source\Repos\valter-francisco\Interfaces\ConsoleApp1\bin\Debug\netcoreapp3.1\InterfacesEx1.exe
+C:\Users\valte\Source\Repos\valter-francisco\Interfaces\ConsoleApp1\bin\Debug\netcoreapp3.1\InterfacesEx1.deps.json
+C:\Users\valte\Source\Repos\valter-francisco\Interfaces\ConsoleApp1\bin\Debug\netcoreapp3.1\InterfacesEx1.runtimeconfig.json
+C:\Users\valte\Source\Repos\valter-francisco\Interfaces\ConsoleApp1\bin\Debug\netcoreapp3.1\InterfacesEx1.runtimeconfig.dev.json
+C:\Users\valte\Source\Repos\valter-francisco\Interfaces\ConsoleApp1\bin\Debug\netcoreapp3.1\InterfacesEx1.dll
+C:\Users\valte\Source\Repos\valter-francisco\Interfaces\ConsoleApp1\bin\Debug\netcoreapp3.1\InterfacesEx1.pdb
+C:\Users\valte\Source\Repos\valter-francisco\Interfaces\ConsoleApp1\obj\Debug\netcoreapp3.1\InterfacesEx1.genruntimeconfig.cache
